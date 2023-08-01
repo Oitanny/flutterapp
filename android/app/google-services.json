@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243388321219",
+    "project_id": "upload-files-6ffbb",
+    "storage_bucket": "upload-files-6ffbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243388321219:android:13d3c17a10211e12b40176",
+        "android_client_info": {
+          "package_name": "com.example.mscapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243388321219-g5tbii6t352l89sh23j6pv7t88nfhs1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh51QWqfqgSJhtziLoKhiERQDD43pjlxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243388321219-g5tbii6t352l89sh23j6pv7t88nfhs1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
